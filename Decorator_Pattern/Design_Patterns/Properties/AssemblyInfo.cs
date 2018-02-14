@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Decorator_Pattern")]
+[assembly: AssemblyTitle("Design_Patterns")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Decorator_Pattern")]
+[assembly: AssemblyProduct("Design_Patterns")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1f14edcb-bb49-4002-af7c-adec72628001")]
+[assembly: Guid("cfc0802d-4f56-4f5d-aeef-4a2ba641f7f3")]
 
 // Version information for an assembly consists of the following four values:
 //
