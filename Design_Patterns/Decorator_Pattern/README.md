@@ -1,2 +1,4 @@
-# Design-patterns
-Small console projects, making use of different design patterns
+# Decorator Pattern
+
+# Description
+Using composition to limit inheritance and simplify object relationships make them more manageable.
