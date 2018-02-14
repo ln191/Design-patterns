@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcreteDecorator\Kebab.cs" />
+    <Compile Include="ConcreteComponent\LargePizza.cs" />
+    <Compile Include="ConcreteDecorator\Pepperoni.cs" />
+    <Compile Include="Component\Pizza.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ConcreteComponent\SmallPizza.cs" />
+    <Compile Include="Decorator\Topping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
