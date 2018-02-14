@@ -9,4 +9,5 @@ In this example we are wrapping a large pizza with different toppings, where eac
  <img src= "Images/Pizza_wrapping_ex.png">
 
 To easily remember what this pattern does, just think of Decorating a Pizza with diffrent toppings, where each topping would add a new description and price on to the exsting Pizza. 
+
 Ex Large pizza = 100 + pepperoni = 10 = Large pizza with Pepperoni = 110.
