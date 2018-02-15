@@ -4,4 +4,6 @@ Is a creational pattern that allows programmers to request objects and have the 
 ## Description
 
 
+<img src="Images/Factory_Pattern_diagram.png">
+
 
