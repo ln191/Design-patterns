@@ -12,5 +12,5 @@ To easily remember what this pattern does, just think of Decorating a Pizza with
 
 Ex Large pizza = 100 + pepperoni = 10 = Large pizza with Pepperoni = 110.
 
-<img src="Images/Decorator_Pattern_diagram.png">
+<img src="Images/Decorator_Pattern_diagram.png" width=200 >
 
